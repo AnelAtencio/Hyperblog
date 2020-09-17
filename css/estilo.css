@@ -1,5 +1,25 @@
 body{
     text-align: center;
     color: darkslategrey;
+<<<<<<< HEAD
     font-family: "Courier";
+=======
+    font-family: "Arial";
+}
+#h1{
+    color: darkviolet;
+    font-size: 18;
+}
+header{
+    font-size: 22px;
+    color: firebrick;
+    text-align: center;
+    background-color: gainsboro;
+    border: solid;
+    width: 40%;
+    float: left;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 1%;
+>>>>>>> cabecera
 }
